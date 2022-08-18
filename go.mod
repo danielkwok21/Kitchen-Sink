@@ -1,3 +1,3 @@
-module kitchen-sink
+module kitchenSink
 
 go 1.17
