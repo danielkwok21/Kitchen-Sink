@@ -1,3 +1,3 @@
-module kitchenSink
+module main
 
 go 1.17
