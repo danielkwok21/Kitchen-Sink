@@ -1,4 +1,4 @@
-package main
+package kitchenSink
 
 /**
 Takes in a list of numbers and returns the sum
